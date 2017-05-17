@@ -6,8 +6,8 @@ echo ">>> Getting the Junet demos..."
 cd ~
 git clone "https://github.com/inguar/Junet-demos.git"
 
-echo ">>> Cleaning up..."
-rm deploy.sh
-rm Junet-demos/deploy.sh
+# echo ">>> Cleaning up..."
+# rm deploy.sh
+# rm Junet-demos/deploy.sh
 
 echo ">>> All done!"
